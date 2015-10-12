@@ -1,0 +1,1970 @@
+[
+    {
+        "tier": "Tier 1",
+        "number": 1,
+        "type": "Normal",
+        "itemid": 40021,
+        "itemname": "Advanced Treasure Charm",
+        "quantity": 1,
+        "description": "Use before defeating a boss for a chance at treasure!\n\nOnly one Treasure Charm can be active at a time. Clicking a new charm while one is still active will cancel the prior one.",
+        "icon": "http://cms-content.s.aeriastatic.com/182c5774b0dea2ad3308cacad781d31c/files/aurakingdom/image/A/Advanced.Treasure.Charm.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "None",
+        "dropdown": "No",
+        "openclosed": "Starts open",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 2",
+        "number": 1,
+        "type": "Normal",
+        "itemid": 50113,
+        "itemname": "Fancy Pipe",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/7e0decebb20831b994ae26dbc6de0ec9/files/aurakingdom/image/F/FancyPipe.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/a03704c89fcca9cb744f8f2cb6fd840f/files/aurakingdom/image/U/Untitle0.jpg",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Recommended",
+        "dropdown": "No",
+        "openclosed": "Starts open",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 2",
+        "number": 2,
+        "type": "Normal",
+        "itemid": 40021,
+        "itemname": "Advanced Treasure Charm",
+        "quantity": 1,
+        "description": "Use before defeating a boss for a chance at treasure!\n\nOnly one Treasure Charm can be active at a time. Clicking a new charm while one is still active will cancel the prior one.",
+        "icon": "http://cms-content.s.aeriastatic.com/182c5774b0dea2ad3308cacad781d31c/files/aurakingdom/image/A/Advanced.Treasure.Charm.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "None",
+        "dropdown": "No",
+        "openclosed": "Starts open",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 1",
+        "number": 1,
+        "type": "Normal",
+        "itemid": 40021,
+        "itemname": "Advanced Treasure Charm",
+        "quantity": 1,
+        "description": "Use before defeating a boss for a chance at treasure!\n\nOnly one Treasure Charm can be active at a time. Clicking a new charm while one is still active will cancel the prior one.",
+        "icon": "http://cms-content.s.aeriastatic.com/182c5774b0dea2ad3308cacad781d31c/files/aurakingdom/image/A/Advanced.Treasure.Charm.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "None",
+        "dropdown": "No",
+        "openclosed": "Starts open",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 1",
+        "number": 4,
+        "type": "Normal",
+        "itemid": 45018,
+        "itemname": "Advanced Weapon Fortification Scroll 3",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/71b40189c9a8610129c14a9e58c7003d/files/aurakingdom/image/A/AdvancedWeaponFortificationScroll1.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Left Screen",
+        "boxcolor": "Grey",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "half",
+        "descriptionnot": "No",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 1",
+        "number": 5,
+        "type": "Normal",
+        "itemid": 45345,
+        "itemname": "Custom Japan Soccer Jersey (M) (Non-Tradable)",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/fe854e9dd7aee8ac6747eaad53d8e31a/files/aurakingdom/image/J/JapanSoccerJerseyMNonTradable.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/9867f6c5b0d38f78f9b8ff2d7fbdec69/files/aurakingdom/image/4/45344.jpg",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Right Description",
+        "boxcolor": "Grey",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "None",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 1",
+        "number": 6,
+        "type": "Normal",
+        "itemid": 40001,
+        "itemname": "Healing Potion",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/fdea6ebbd8015d55a99854a9b2c6bfe2/files/aurakingdom/image/H/Healing.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Left Description",
+        "boxcolor": "Grey",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "None",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 1",
+        "number": 7,
+        "type": "Normal",
+        "itemid": 40021,
+        "itemname": "Advanced Treasure Charm",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/182c5774b0dea2ad3308cacad781d31c/files/aurakingdom/image/A/Advanced.Treasure.Charm.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Right screen",
+        "boxcolor": "Grey",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "half",
+        "descriptionnot": "No",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 1",
+        "number": 8,
+        "type": "Normal",
+        "itemid": 50113,
+        "itemname": "Fancy Pipe",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/7e0decebb20831b994ae26dbc6de0ec9/files/aurakingdom/image/F/FancyPipe.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/a03704c89fcca9cb744f8f2cb6fd840f/files/aurakingdom/image/U/Untitle0.jpg",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Long",
+        "boxcolor": "Grey",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "Whole",
+        "descriptionnot": "No",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 2",
+        "number": 1,
+        "type": "Normal",
+        "itemid": 45018,
+        "itemname": "Advanced Weapon Fortification Scroll 3",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/71b40189c9a8610129c14a9e58c7003d/files/aurakingdom/image/A/AdvancedWeaponFortificationScroll1.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 2",
+        "number": 10,
+        "type": "Normal",
+        "itemid": 45075,
+        "itemname": "10000 Ruby Coins",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/c2ee2d3dba988f613484b27bb907db6c/files/aurakingdom/image/F/FantasyGiftVoucher.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 2",
+        "number": 11,
+        "type": "Normal",
+        "itemid": 40035,
+        "itemname": "Feather of Revival",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/1b786d34dcb5ed6728adec0b3166abb3/files/aurakingdom/image/F/FeatherofRevival.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 2",
+        "number": 12,
+        "type": "Normal",
+        "itemid": 50113,
+        "itemname": "Fancy Pipe",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/7e0decebb20831b994ae26dbc6de0ec9/files/aurakingdom/image/F/FancyPipe.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/a03704c89fcca9cb744f8f2cb6fd840f/files/aurakingdom/image/U/Untitle0.jpg",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 13,
+        "type": "Normal",
+        "itemid": 45345,
+        "itemname": "Custom Japan Soccer Jersey (M) (Non-Tradable)",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/fe854e9dd7aee8ac6747eaad53d8e31a/files/aurakingdom/image/J/JapanSoccerJerseyMNonTradable.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/9867f6c5b0d38f78f9b8ff2d7fbdec69/files/aurakingdom/image/4/45344.jpg",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 14,
+        "type": "Normal",
+        "itemid": 45016,
+        "itemname": "Advanced Weapon Fortification Scroll 1",
+        "quantity": 1,
+        "icon": "http://cms-content.s.aeriastatic.com/71b40189c9a8610129c14a9e58c7003d/files/aurakingdom/image/A/AdvancedWeaponFortificationScroll1.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "longquantity": 12
+    },
+    {
+        "tier": "Tier 3",
+        "boxcolor": "Grey"
+    },
+    {
+        "tier": "Tier 3",
+        "boxcolor": "Grey"
+    },
+    {
+        "tier": "Tier 3",
+        "boxcolor": "Grey",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "boxcolor": "Grey",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3",
+        "boxcolor": "Grey",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 3"
+    },
+    {
+        "tier": "Tier 3",
+        "number": "Num\nber",
+        "type": "Type",
+        "packagesmbids": "Packages / MBoxes \nIDs",
+        "itemid": "Item ID",
+        "itemname": "Item Name",
+        "quantity": "Quan\ntity",
+        "icon": "Icon",
+        "screenshot": "Screenshot",
+        "priceSingleItemAutomatic": "Price Single Item (automatic)",
+        "totalprice": "Total Price",
+        "boxtype": "Box type",
+        "highlighttype": "Highlight\ntype",
+        "dropdown": "Clickable \nor Not",
+        "openclosed": "Open / Closed",
+        "screenshottype": "Screenshot\nType",
+        "descriptionnot": "Description\nor Not"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 1,
+        "boxtype": "Long",
+        "highlighttype": "None",
+        "dropdown": "No",
+        "openclosed": "Starts open",
+        "screenshottype": "half",
+        "descriptionnot": "Yes"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 2,
+        "boxtype": "Long",
+        "highlighttype": "Recommended",
+        "dropdown": "No",
+        "openclosed": "Starts open",
+        "screenshottype": "half",
+        "descriptionnot": "Yes"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 3,
+        "boxtype": "Long",
+        "highlighttype": "Both",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "half",
+        "descriptionnot": "Yes"
+    },
+    {
+        "tier": "Tier 3",
+        "number": 4,
+        "type": "Normal",
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 4,
+        "boxtype": "long 2 items",
+        "highlighttype": "Both",
+        "dropdown": "Yes",
+        "screenshottype": "half",
+        "descriptionnot": "Yes"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 5,
+        "boxtype": "long 3 items",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+        "dropdown": "Yes",
+        "openclosed": "All if  \"drop\"",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 6,
+        "boxtype": "long 4 items",
+        "boxcolor": "Green",
+        "highlighttype": "Recommended",
+        "dropdown": "Yes",
+        "openclosed": "All if  \"drop\"",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 7,
+        "boxtype": "long 5 items",
+        "boxcolor": "Grey",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "All if  \"drop\"",
+        "screenshottype": "half",
+        "descriptionnot": "Yes",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 8,
+        "boxtype": "GM Service",
+        "boxcolor": "Gold",
+        "highlighttype": "New",
+        "dropdown": "Yes",
+        "openclosed": "Starts closed",
+        "screenshottype": "None",
+        "descriptionnot": "No",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 9,
+        "boxtype": "long + items",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "openclosed": "Starts open",
+        "screenshottype": "None",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 10,
+        "boxtype": "Left Screen",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "screenshottype": "half",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 11,
+        "boxtype": "Right Description",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "screenshottype": "None",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 12,
+        "boxtype": "Left Description",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "screenshottype": "None",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 13,
+        "boxtype": "Right screen",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "screenshottype": "half",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": "IF",
+        "boxtype": "Long",
+        "highlighttype": "None",
+        "dropdown": "Yes",
+        "screenshottype": "Whole",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 15,
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 16,
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 17,
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 18,
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 19,
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "number": 20,
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 4",
+        "quantity": 1,
+        "totalprice": "IF",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "quantity": 1,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "highlighttype": "NOPE",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": "Num\nber",
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "highlighttype": "Highlight\ntype",
+        "dropdown": "Drop Down",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "highlighttype": "All",
+        "dropdown": "All",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "highlighttype": "All",
+        "dropdown": "All",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "highlighttype": "All",
+        "dropdown": "All",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "dropdown": "Drop",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "dropdown": "Drop",
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 5",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 6",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 7",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 8",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 9",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 10",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 11",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 10,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 11,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 12,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 13,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 14,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 15,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 16,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 17,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 18,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 19,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 12",
+        "number": 20,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 1,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 2,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 3,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 4,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 5,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 6,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 7,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 8,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    },
+    {
+        "tier": "Tier 13",
+        "number": 9,
+        "quantity": 1,
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "undefined": "None"
+    }
+]
