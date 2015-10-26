@@ -76,7 +76,9 @@ var itemnum=1;
 var packagesize=0;
 var tiernum=1;
 var tiercount='Tier'+' '+tiernum;
+var nexttier='Tier'+' '+(tiernum+1);
 var bonustiercount='Bonus Tier'+' '+tiernum;
+var nextbonustiercount='Bonus Tier'+' '+(tiernum+1);
 var iDiv;
 
 for(i=0;i<tiers.length;i++)
@@ -86,46 +88,53 @@ for(i=0;i<tiers.length;i++)
   	$("#container").append('<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>');
   	tiercount= 'Tier'+' '+tiernum;
   	bonustiercount= 'Bonus Tier'+' '+tiernum;
-  	tiernum++;
+  	nextbonustiercount='Bonus Tier'+' '+(tiernum+1);
+  	nexttier='Tier'+' '+(tiernum+1);
   	
   	iDiv = document.createElement('div');
     iDiv.id = tiercount;
     iDiv.className = tiercount;
     document.getElementById('container').appendChild(iDiv);
     iDiv.innerHTML = tiercount;
+    tiernum++;
   
   } 
-  else if((tiercount<tiers[i].tier)&&(tiers[i].number==1))
+  else if((nexttier==tiers[i].tier)&&(tiers[i].number==1))
   {
     
     tiercount= 'Tier'+' '+tiernum;
+    nexttier='Tier'+' '+(tiernum+1);
+    nextbonustiercount='Bonus Tier'+' '+(tiernum+1);
     bonustiercount= 'Bonus Tier'+' '+tiernum;
     $("#container").append('<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>');
-    tiernum++;
+   
     
     iDiv = document.createElement('div');
     iDiv.id = tiercount;
     iDiv.className = tiercount;
     document.getElementById('container').appendChild(iDiv);
     iDiv.innerHTML = tiercount;
-    
+     tiernum++;
   }
   
   else if((bonustiercount==tiers[i].tier)&&(tiers[i].number==1))
   {
   	$("#container").append('<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>');
   	bonustiercount= 'Bonus Tier'+' '+tiernum;
+  	nextbonustiercount='Bonus Tier'+' '+(tiernum+1);
 	
 	iDiv = document.createElement('div');
     iDiv.id = bonustiercount;
     iDiv.className = bonustiercount;
     document.getElementById('container').appendChild(iDiv);
-    iDiv.innerHTML = bonustiercount;  
+    iDiv.innerHTML = bonustiercount; 
+    tiernum++; 
   } 
-  else if((bonustiercount<tiers[i].tier)&&(tiers[i].number==1))
+  else if((nextbonustiercount==tiers[i].tier)&&(tiers[i].number==1))
   {
-    tiernum++;
+    
     bonustiercount= 'Bonus Tier'+' '+tiernum;
+    nextbonustiercount='Bonus Tier'+' '+(tiernum+1);
     $("#container").append('<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>');
     
     iDiv = document.createElement('div');
@@ -133,6 +142,7 @@ for(i=0;i<tiers.length;i++)
     iDiv.className = bonustiercount;
     document.getElementById('container').appendChild(iDiv);
     iDiv.innerHTML = bonustiercount;
+    tiernum++;
   }
   
   //when type is normal
