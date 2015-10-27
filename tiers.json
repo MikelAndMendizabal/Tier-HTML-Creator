@@ -2105,6 +2105,17 @@
     {
         "tier": "Tier 8",
         "ref": "#REF!"
+<<<<<<< HEAD
+    },
+    {
+        "tier": "Tier 8",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Tier 8",
+        "ref": "#REF!"
+=======
+>>>>>>> wrap-up-Tier-titles
     },
     {
         "tier": "Tier 8",
@@ -2131,11 +2142,17 @@
         "ref": "#REF!"
     },
     {
+<<<<<<< HEAD
+        "ref": "#REF!"
+    },
+    {
+=======
         "tier": "Tier 8",
         "ref": "#REF!"
     },
     {
         "tier": "Tier 8",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
@@ -2217,12 +2234,15 @@
         "ref": "#REF!"
     },
     {
+<<<<<<< HEAD
+=======
         "ref": "#REF!"
     },
     {
         "ref": "#REF!"
     },
     {
+>>>>>>> wrap-up-Tier-titles
         "tier": "Tier",
         "text": "Text",
         "price": "Price",
@@ -2432,6 +2452,7 @@
     {
         "tier": "Bonus Tier 9",
         "ref": "#REF!"
+<<<<<<< HEAD
     },
     {
         "tier": "Bonus Tier 9",
@@ -2527,10 +2548,68 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 9",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Tier",
+        "text": "Text",
+        "price": "Price",
+        "number": "Num\nber",
+        "type": "Type",
+        "packagesMbIds": "Packages / MB \nIDs",
+        "itemid": "Item ID",
+        "itemname": "Item Name",
+        "quantity": "Quan\ntity",
+        "description": "Description",
+        "icon": "Icon",
+        "screenshot": "Screenshot",
+        "priceSingleItemAutomatic": "Price Single Item (automatic)",
+        "totalprice": "Total Price",
+        "boxtype": "Box type",
+        "boxcolor": "Box Color",
+        "highlighttype": "Highlight\ntype",
+        "dropdown": "Clickable \nor Not",
+        "openclosed": "Open / Closed",
+        "screenshottype": "Screenshot\nType",
+        "descriptionornot": "Description\nor Not",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
+<<<<<<< HEAD
         "number": 3,
         "type": "Package",
         "itemid": 50786,
@@ -2544,41 +2623,94 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
+=======
+        "text": "You can choose one reward",
+        "price": 39999,
+        "number": 1,
+        "type": "Normal",
+        "itemid": 50761,
+        "itemname": "Antimatter Tech Cannon",
+        "quantity": 1,
+        "description": "Equipped with a unique core, the enormous energy compressed within this devastating cannon is so destructive, it has the power to erase enemies from the space-time continuum itself.\n\nAll weapon types can be displayed when not in combat, but only primary and secondary weapon types are displayed during combat.",
+        "priceSingleItemAutomatic": 14999,
+        "totalprice": 14999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+        "dropdown": "No Drop",
+        "openclosed": "Starts open",
+>>>>>>> wrap-up-Tier-titles
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
+<<<<<<< HEAD
         "itemid": 50783,
         "itemname": "Custom Rocker's Cap (M)",
         "quantity": 1,
         "description": "Your favorite song is playing! Time for some headbanging. Just make sure your cap doesn't fall off!",
         "priceSingleItemAutomatic": 14999,
         "totalprice": 14999,
+=======
+        "number": 2,
+        "type": "Normal",
+        "itemid": 50726,
+        "itemname": "Divine Codex Wings",
+        "quantity": 1,
+        "description": "Locked within the code of these divine magic wings lies the answers to the mysteries of the universe. Only those sanctioned by the gods can access this ancient knowledge.\n\nWhen out of combat, all weapon types can be shown. While in combat, only primary and secondary weapon types will be shown.",
+        "priceSingleItemAutomatic": 14999,
+        "totalprice": 14999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
+<<<<<<< HEAD
         "number": 4,
         "type": "Normal",
         "itemid": 50640,
         "itemname": "Sophisticated Snowy Feathers",
         "quantity": 1,
         "description": "Glistening white wings that will bring you closer to levitation than you ever thought possible.",
+=======
+        "number": 3,
+        "type": "Package",
+        "itemid": 50786,
+        "itemname": "Custom Punk Rocker Jacket (M)",
+        "quantity": 1,
+        "description": "Nothing says metal like wearing actual metal! Show that's you're really hardcore and get out on that stage and jam!",
+>>>>>>> wrap-up-Tier-titles
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
         "boxtype": "Long",
         "boxcolor": "Blue",
+<<<<<<< HEAD
         "highlighttype": "None",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
         "screenshottype": "Whole",
         "descriptionornot": "No",
+=======
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
+<<<<<<< HEAD
         "number": 5,
         "type": "Package",
         "itemid": 40199,
@@ -2596,10 +2728,19 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+        "itemid": 50783,
+        "itemname": "Custom Rocker's Cap (M)",
+        "quantity": 1,
+        "description": "Your favorite song is playing! Time for some headbanging. Just make sure your cap doesn't fall off!",
+        "priceSingleItemAutomatic": 14999,
+        "totalprice": 14999,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
+<<<<<<< HEAD
         "itemid": 40197,
         "itemname": "Twentieth-Order Weapon Fortification",
         "quantity": 5,
@@ -2608,10 +2749,83 @@
         "screenshot": "not needed",
         "priceSingleItemAutomatic": 6999,
         "totalprice": 34995,
+=======
+        "number": 4,
+        "type": "Normal",
+        "itemid": 50640,
+        "itemname": "Sophisticated Snowy Feathers",
+        "quantity": 1,
+        "description": "Glistening white wings that will bring you closer to levitation than you ever thought possible.",
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "None",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Whole",
+        "descriptionornot": "No",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
+<<<<<<< HEAD
+        "number": 6,
+        "type": "Normal",
+        "itemid": 45073,
+        "itemname": "5000 Ruby Coins",
+        "quantity": 10,
+        "description": "Coins that can be used for refining. Use to receive 5000 points in Ruby Coins. Thank you for supporting Aura Kingdom!\n\nYou are limited to 99,999 Ruby Coins. This limit cannot be exceeded.",
+        "icon": "http://cms-content.s.aeriastatic.com/c2ee2d3dba988f613484b27bb907db6c/files/aurakingdom/image/F/FantasyGiftVoucher.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 1669,
+        "totalprice": 16690,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+        "dropdown": "No Drop",
+        "openclosed": "Starts open",
+=======
+        "number": 5,
+        "type": "Package",
+        "itemid": 40199,
+        "itemname": "Twentieth-Order Armor Fortification",
+        "quantity": 5,
+        "description": "Will automatically fortify a piece of armor one level, without fail, up to level 20. Right-click to open the Fortification menu.",
+        "icon": "http://cms-content.s.aeriastatic.com/5186f320616d0fff2e06dd59bcae7168/files/aurakingdom/image/T/TwentiethOrderArmorFortification.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 5999,
+        "totalprice": 29995,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+>>>>>>> wrap-up-Tier-titles
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 10",
+<<<<<<< HEAD
+=======
+        "itemid": 40197,
+        "itemname": "Twentieth-Order Weapon Fortification",
+        "quantity": 5,
+        "description": "Will automatically fortify a weapon one level, without fail, up to level 20. Right-click to open the Fortification menu.",
+        "icon": "http://cms-content.s.aeriastatic.com/822369ebcc046f6cb4dc6134d68b8a14/files/aurakingdom/image/T/TwentiethOrderWeaponFortification.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 6999,
+        "totalprice": 34995,
+>>>>>>> wrap-up-Tier-titles
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 10",
+<<<<<<< HEAD
+=======
         "number": 6,
         "type": "Normal",
         "itemid": 45073,
@@ -2629,6 +2843,7 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
@@ -2700,14 +2915,7 @@
         "ref": "#REF!"
     },
     {
-        "tier": "Bonus Tier 10",
-        "ref": "#REF!"
-    },
-    {
-        "tier": "Bonus Tier 10",
-        "ref": "#REF!"
-    },
-    {
+<<<<<<< HEAD
         "tier": "Tier",
         "text": "Text",
         "price": "Price",
@@ -2763,20 +2971,74 @@
         "icon": "http://cms-content.s.aeriastatic.com/fff3ef056f176669e4962481fb2a1fdf/files/aurakingdom/image/C/C50398.jpg",
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
+=======
+        "tier": "Bonus Tier 10",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 10",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Tier",
+        "text": "Text",
+        "price": "Price",
+        "number": "Num\nber",
+        "type": "Type",
+        "packagesMbIds": "Packages / MB \nIDs",
+        "itemid": "Item ID",
+        "itemname": "Item Name",
+        "quantity": "Quan\ntity",
+        "description": "Description",
+        "icon": "Icon",
+        "screenshot": "Screenshot",
+        "priceSingleItemAutomatic": "Price Single Item (automatic)",
+        "totalprice": "Total Price",
+        "boxtype": "Box type",
+        "boxcolor": "Box Color",
+        "highlighttype": "Highlight\ntype",
+        "dropdown": "Clickable \nor Not",
+        "openclosed": "Open / Closed",
+        "screenshottype": "Screenshot\nType",
+        "descriptionornot": "Description\nor Not",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
         "itemid": 50641,
         "itemname": "Pink Snowy Feathers",
         "quantity": 1,
         "description": "Beautiful, lightweight pink feathers that will make you the star of the show when you flutter them.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
+=======
+        "text": "You can choose one reward",
+        "price": 54999,
+        "number": 1,
+        "type": "Package",
+        "itemid": 50401,
+        "itemname": "Custom Asuna Knight (F)",
+        "quantity": 1,
+        "description": "The painstakingly forged armor brings out the duchess in you. Its flirty skirt lets you take it from the battlefield straight to Happy Hour!",
+        "icon": "http://cms-content.s.aeriastatic.com/783a32a76086ca309790f7cf003d345f/files/aurakingdom/image/C/C50401.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/d1e5dac7a304f0b0f8260649fa2d6c57/files/aurakingdom/image/c/customeknight23232.jpg",
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
         "number": 2,
         "type": "Normal",
         "itemid": 50823,
@@ -2792,10 +3054,20 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+        "itemid": 50398,
+        "itemname": "Custom Asuna Headpiece (F)",
+        "quantity": 1,
+        "description": "This hair accessory gleams and pulses with magical power. The wearer will appear both agile and noble - maybe even at the same time!",
+        "icon": "http://cms-content.s.aeriastatic.com/fff3ef056f176669e4962481fb2a1fdf/files/aurakingdom/image/C/C50398.jpg",
+        "priceSingleItemAutomatic": 5999,
+        "totalprice": 5999,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
         "number": 3,
         "type": "Normal",
         "itemid": 50806,
@@ -2811,10 +3083,19 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+        "itemid": 50641,
+        "itemname": "Pink Snowy Feathers",
+        "quantity": 1,
+        "description": "Beautiful, lightweight pink feathers that will make you the star of the show when you flutter them.",
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
         "number": 4,
         "type": "Normal",
         "itemid": 40391,
@@ -2829,12 +3110,28 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
+=======
+        "number": 2,
+        "type": "Normal",
+        "itemid": 50823,
+        "itemname": "Aurora Shadow Tachi",
+        "quantity": 1,
+        "description": "It is rumored that the blade is forged with thousands of souls, and is still assimilating weak-minded souls into its mysterious shadow blade.\n\nAll weapon types can be displayed when not in combat, but only primary and secondary weapon types are displayed during combat.",
+        "priceSingleItemAutomatic": 14999,
+        "totalprice": 14999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+        "dropdown": "No Drop",
+        "openclosed": "Starts open",
+>>>>>>> wrap-up-Tier-titles
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
         "number": 5,
         "type": "Normal",
         "itemid": 40389,
@@ -2849,12 +3146,98 @@
         "highlighttype": "New",
         "dropdown": "No Drop",
         "openclosed": "Starts open",
+=======
+        "number": 3,
+        "type": "Normal",
+        "itemid": 50806,
+        "itemname": "Bealdor Holy Greatsword",
+        "quantity": 1,
+        "description": "Skee, the favorite sword of the Bringer of Light, Bealdor. It glows with a brilliant light that is rumored to pierce through darkness and purify evilness, justifying the title bestowed upon it.\n\nAll weapon types can be displayed when not in combat, but only primary and secondary weapon types are displayed during combat.",
+        "priceSingleItemAutomatic": 14999,
+        "totalprice": 14999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+>>>>>>> wrap-up-Tier-titles
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
+        "number": 6,
+        "type": "Normal",
+        "itemid": 40361,
+        "itemname": "Astraea's Key of Gaia",
+        "quantity": 1,
+        "description": "This key contains the will of Astraea. This key's wings are resplendent with holy light.\n\nRight-click to obtain the Eidolon Astraea.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Astraea.",
+        "icon": "http://cms-content.s.aeriastatic.com/a0ae04089891c6ea8ee3352541da6b5b/files/aurakingdom/image/A/AstraeasKeyofGaia.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/d7d75823757f935b69021e4ef3a061c1/files/aurakingdom/image/a/aaa22232332.jpg",
+=======
+        "number": 4,
+        "type": "Normal",
+        "itemid": 40391,
+        "itemname": "Cesela's Key of Gaia",
+        "quantity": 1,
+        "description": "This key contains the will of Cesela. Its radiant light shines like the North Star.\n\nRight-click to obtain the Eidolon Cesela.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Cesela.",
+        "icon": "http://cms-content.s.aeriastatic.com/eb9d9f0c902455c1eb960681c6467a40/files/aurakingdom/image/C/CeselasKeyofGaia.jpg",
+>>>>>>> wrap-up-Tier-titles
+        "priceSingleItemAutomatic": 39999,
+        "totalprice": 39999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 11",
+<<<<<<< HEAD
+        "number": 7,
+        "type": "Normal",
+        "itemid": 45073,
+        "itemname": "5000 Ruby Coins",
+        "quantity": 12,
+        "description": "Coins that can be used for refining. Use to receive 5000 points in Ruby Coins. Thank you for supporting Aura Kingdom!\n\nYou are limited to 99,999 Ruby Coins. This limit cannot be exceeded.",
+        "icon": "http://cms-content.s.aeriastatic.com/c2ee2d3dba988f613484b27bb907db6c/files/aurakingdom/image/F/FantasyGiftVoucher.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 1669,
+        "totalprice": 20028,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+=======
+        "number": 5,
+        "type": "Normal",
+        "itemid": 40389,
+        "itemname": "Hansel and Gretel's Gaia Key",
+        "quantity": 1,
+        "description": "This key is infused with Hansel and Gretel's will. It smells of gingerbread and maple syrup. \n\nRight-click to obtain Eidolon - Hansel and Gretel. \nYou cannot obtain the same Eidolon twice. \nThis key is also used for Hansel and Gretel's evolution.",
+        "icon": "http://cms-content.s.aeriastatic.com/a5cda8e2c6cf514d7594e0c597712368/files/aurakingdom/image/H/HanselandGretelsGaiaKey.jpg",
+        "priceSingleItemAutomatic": 39999,
+        "totalprice": 39999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+        "dropdown": "No Drop",
+        "openclosed": "Starts open",
+>>>>>>> wrap-up-Tier-titles
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 11",
+<<<<<<< HEAD
+=======
         "number": 6,
         "type": "Normal",
         "itemid": 40361,
@@ -2872,10 +3255,13 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
+<<<<<<< HEAD
+=======
         "number": 7,
         "type": "Normal",
         "itemid": 45073,
@@ -2893,6 +3279,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
@@ -2960,14 +3347,7 @@
         "ref": "#REF!"
     },
     {
-        "tier": "Bonus Tier 11",
-        "ref": "#REF!"
-    },
-    {
-        "tier": "Bonus Tier 11",
-        "ref": "#REF!"
-    },
-    {
+<<<<<<< HEAD
         "tier": "Tier",
         "text": "Text",
         "price": "Price",
@@ -3029,10 +3409,114 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+        "tier": "Bonus Tier 11",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 11",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Tier",
+        "text": "Text",
+        "price": "Price",
+        "number": "Num\nber",
+        "type": "Type",
+        "packagesMbIds": "Packages / MB \nIDs",
+        "itemid": "Item ID",
+        "itemname": "Item Name",
+        "quantity": "Quan\ntity",
+        "description": "Description",
+        "icon": "Icon",
+        "screenshot": "Screenshot",
+        "priceSingleItemAutomatic": "Price Single Item (automatic)",
+        "totalprice": "Total Price",
+        "boxtype": "Box type",
+        "boxcolor": "Box Color",
+        "highlighttype": "Highlight\ntype",
+        "dropdown": "Clickable \nor Not",
+        "openclosed": "Open / Closed",
+        "screenshottype": "Screenshot\nType",
+        "descriptionornot": "Description\nor Not",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 12",
+<<<<<<< HEAD
+        "number": 3,
+        "type": "Normal",
+        "itemid": 50811,
+        "itemname": "Black Lantern Kitty",
+        "quantity": 1,
+        "description": "Shouted \"Trick or Treat!\" Summon the Black Lantern Magic Kitty.\n\nOnly one companion can be summoned at a time.",
+        "priceSingleItemAutomatic": 0,
+        "totalprice": 0,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Recommended",
+=======
+        "text": "You can choose one reward",
+        "price": 74999,
+        "number": 1,
+        "type": "Normal",
+        "itemid": 40478,
+        "itemname": "Diao Chan's Key of Gaia",
+        "quantity": 1,
+        "description": "This key is imbued with the valor of Diao Chan, and a surprisingly gentle hint of perfume seems to emanate from it.\n\nRight-click to obtain the Eidolon Diao Chan.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Diao Chan.",
+        "priceSingleItemAutomatic": 49999,
+        "totalprice": 49999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+>>>>>>> wrap-up-Tier-titles
+        "dropdown": "No Drop",
+        "openclosed": "Starts open",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 12",
+<<<<<<< HEAD
+        "number": 4,
+        "type": "Package",
+        "itemid": 50800,
+        "itemname": "Custom Meteor Planetary Armor (M)",
+        "quantity": 1,
+        "description": "Truly refined precious metal is lightweight like a feather. The armor is made using this metal and adorned with premium silk to create the ultimate armor set for a king.",
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+=======
+        "number": 2,
+        "type": "Normal",
+        "itemid": 45594,
+        "itemname": "Fantasy Gift Voucher: 100 Points",
+        "quantity": 15,
+        "description": "A special voucher used to purchase items. Use to receive 100 voucher points. Thanks for enjoying Aura Kingdom!\n\nThe maximum limit for coupons is 9,999; you cannot obtain more coupons after this set limit.",
+        "priceSingleItemAutomatic": 1500,
+        "totalprice": 22500,
+>>>>>>> wrap-up-Tier-titles
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 12",
+<<<<<<< HEAD
+        "itemid": 50789,
+        "itemname": "Flaming Red Lotus Feather",
+        "quantity": 1,
+        "description": "Exquisite crystal accessory dyed in rose red. Its magical properties emits light particles which enhances the glamor of the wearer.",
+        "priceSingleItemAutomatic": 14999,
+        "totalprice": 14999,
+=======
         "number": 3,
         "type": "Normal",
         "itemid": 50811,
@@ -3048,16 +3532,26 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 12",
+<<<<<<< HEAD
+        "number": 5,
+        "type": "Package",
+        "itemid": 50814,
+        "itemname": "Pirate Lord Costume (M)",
+        "quantity": 1,
+        "description": "Fearless against the vast ocean and sailing to the uncharted territories in exploration. That is the first step to becoming the lord of the oceans.",
+=======
         "number": 4,
         "type": "Package",
         "itemid": 50800,
         "itemname": "Custom Meteor Planetary Armor (M)",
         "quantity": 1,
         "description": "Truly refined precious metal is lightweight like a feather. The armor is made using this metal and adorned with premium silk to create the ultimate armor set for a king.",
+>>>>>>> wrap-up-Tier-titles
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
         "boxtype": "Long",
@@ -3071,6 +3565,11 @@
     },
     {
         "tier": "Bonus Tier 12",
+<<<<<<< HEAD
+        "itemid": 50817,
+        "itemname": "Lord of the Ocean Captain Hat",
+        "quantity": 1,
+=======
         "itemid": 50789,
         "itemname": "Flaming Red Lotus Feather",
         "quantity": 1,
@@ -3103,6 +3602,7 @@
         "itemid": 50817,
         "itemname": "Lord of the Ocean Captain Hat",
         "quantity": 1,
+>>>>>>> wrap-up-Tier-titles
         "description": "The hat worn by the legendary conqueror of the ocean. If you want to become a lord of the ocean, wear your captain hat and lead your sailors to pursue your dreams.",
         "priceSingleItemAutomatic": 14999,
         "totalprice": 14999,
@@ -3215,6 +3715,56 @@
     {
         "tier": "Bonus Tier 12",
         "ref": "#REF!"
+<<<<<<< HEAD
+    },
+    {
+        "tier": "Bonus Tier 12",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Tier",
+        "text": "Text",
+        "price": "Price",
+        "number": "Num\nber",
+        "type": "Type",
+        "packagesMbIds": "Packages / MB \nIDs",
+        "itemid": "Item ID",
+        "itemname": "Item Name",
+        "quantity": "Quan\ntity",
+        "description": "Description",
+        "icon": "Icon",
+        "screenshot": "Screenshot",
+        "priceSingleItemAutomatic": "Price Single Item (automatic)",
+        "totalprice": "Total Price",
+        "boxtype": "Box type",
+        "boxcolor": "Box Color",
+        "highlighttype": "Highlight\ntype",
+        "dropdown": "Clickable \nor Not",
+        "openclosed": "Open / Closed",
+        "screenshottype": "Screenshot\nType",
+        "descriptionornot": "Description\nor Not",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 13",
+        "text": "You can choose one reward",
+        "price": 99999,
+        "number": 1,
+        "type": "Package",
+        "itemid": 11178,
+        "itemname": "Cleopawtra's Key of Gaia",
+        "quantity": 1,
+        "description": "This key contains the will of Cleopawtra. Sub-zero ice crystals surround it as the air around it freezes.\n\nRight-click to obtain the Eidolon Cleopawtra.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Cleopawtra.",
+        "priceSingleItemAutomatic": 49999,
+        "totalprice": 49999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+=======
     },
     {
         "tier": "Bonus Tier 12",
@@ -3283,10 +3833,19 @@
         "description": "Surrounded by an aura of death, once this merciless predator sets his eyes on you, your fate is sealed.",
         "priceSingleItemAutomatic": 4999,
         "totalprice": 4999,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "itemid": 50770,
+        "itemname": "Custom Bloodthirsty Assassin Garb (M)",
+        "quantity": 1,
+        "description": "Once this coldblooded killer has you in his sights, the only thing you'll see are the whites of his eyes as the life drains from your body.",
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+=======
         "number": 2,
         "type": "Package",
         "itemid": 11178,
@@ -3302,30 +3861,66 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "itemid": 50767,
+        "itemname": "Shadow Assassin Mask",
+        "quantity": 1,
+        "description": "Surrounded by an aura of death, once this merciless predator sets his eyes on you, your fate is sealed.",
+        "priceSingleItemAutomatic": 4999,
+        "totalprice": 4999,
+=======
         "itemid": 50738,
         "itemname": "Custom Flowery Kimono (F)",
         "quantity": 1,
         "description": "This trendy kimono's unique, laced design has made it the talk of the town.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "number": 2,
+        "type": "Package",
+        "itemid": 11178,
+        "itemname": "Cleopawtra's Key of Gaia",
+        "quantity": 1,
+        "description": "This key contains the will of Cleopawtra. Sub-zero ice crystals surround it as the air around it freezes.\n\nRight-click to obtain the Eidolon Cleopawtra.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Cleopawtra.",
+        "priceSingleItemAutomatic": 49999,
+        "totalprice": 49999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+=======
         "itemid": 50735,
         "itemname": "Custom Glamorous Butterfly Bow",
         "quantity": 1,
         "description": "When that special someone sees the ribbons and lace on this adorable bow, it'll be love at first sight!",
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "itemid": 50738,
+        "itemname": "Custom Flowery Kimono (F)",
+        "quantity": 1,
+        "description": "This trendy kimono's unique, laced design has made it the talk of the town.",
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+=======
         "number": 3,
         "type": "Package",
         "itemid": 50700,
@@ -3341,20 +3936,78 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "itemid": 50735,
+        "itemname": "Custom Glamorous Butterfly Bow",
+        "quantity": 1,
+        "description": "When that special someone sees the ribbons and lace on this adorable bow, it'll be love at first sight!",
+=======
         "itemid": 50697,
         "itemname": "Custom Elegant Wedding Veil (F)",
         "quantity": 1,
         "description": "It's bad luck to see the bride! This exquisite veil will make the most important day in your life unforgettable!",
+>>>>>>> wrap-up-Tier-titles
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "number": 3,
+        "type": "Package",
+        "itemid": 50700,
+        "itemname": "Custom Glamorous Wedding Gown (F)",
+        "quantity": 1,
+        "description": "This premium wedding gown was especially designed to make the dreams of young girls come true!",
+=======
+        "number": 4,
+        "type": "Package",
+        "itemid": 50694,
+        "itemname": "Custom Wedding Tux (M)",
+        "quantity": 1,
+        "description": "Finally ready to tie the knot? Then go the extra mile to show you really mean 'I do' with these premium dapper duds.",
+>>>>>>> wrap-up-Tier-titles
+        "priceSingleItemAutomatic": 19999,
+        "totalprice": 19999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "itemid": 50697,
+        "itemname": "Custom Elegant Wedding Veil (F)",
+        "quantity": 1,
+        "description": "It's bad luck to see the bride! This exquisite veil will make the most important day in your life unforgettable!",
+        "priceSingleItemAutomatic": 5999,
+        "totalprice": 5999,
+=======
+        "itemid": 50357,
+        "itemname": "Custom Western Hat (M)",
+        "quantity": 1,
+        "description": " This fancy yet sturdy hat is built to last! Wear it to a high-noon duel or just to go out and visit friends. This hat will make you look like the baddest guy in town.",
+        "icon": "http://cms-content.s.aeriastatic.com/88748feb74d68d8ea983111df5c09952/files/aurakingdom/image/5/50357.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/8bd2c62e7a412605a3c1779b9b991716/files/aurakingdom/image/U/Untitle260.jpg",
+        "priceSingleItemAutomatic": 1499,
+        "totalprice": 1499,
+>>>>>>> wrap-up-Tier-titles
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 13",
+<<<<<<< HEAD
         "number": 4,
         "type": "Package",
         "itemid": 50694,
@@ -3370,23 +4023,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-        "ref": "#REF!"
-    },
-    {
-        "tier": "Bonus Tier 13",
-        "itemid": 50357,
-        "itemname": "Custom Western Hat (M)",
-        "quantity": 1,
-        "description": " This fancy yet sturdy hat is built to last! Wear it to a high-noon duel or just to go out and visit friends. This hat will make you look like the baddest guy in town.",
-        "icon": "http://cms-content.s.aeriastatic.com/88748feb74d68d8ea983111df5c09952/files/aurakingdom/image/5/50357.jpg",
-        "screenshot": "http://cms-content.s.aeriastatic.com/8bd2c62e7a412605a3c1779b9b991716/files/aurakingdom/image/U/Untitle260.jpg",
-        "priceSingleItemAutomatic": 1499,
-        "totalprice": 1499,
-        "ref": "#REF!"
-    },
-    {
-        "tier": "Bonus Tier 13",
-        "number": 5,
+=======
         "itemid": 50014,
         "itemname": "Red Rose",
         "quantity": 1,
@@ -3395,11 +4032,22 @@
         "screenshot": "http://cms-content.s.aeriastatic.com/611e191438a738118d7f59db561f120d/files/aurakingdom/image/U/Uredroseled.png",
         "priceSingleItemAutomatic": 499,
         "totalprice": 499,
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-        "number": 6,
+<<<<<<< HEAD
+        "itemid": 50357,
+        "itemname": "Custom Western Hat (M)",
+        "quantity": 1,
+        "description": " This fancy yet sturdy hat is built to last! Wear it to a high-noon duel or just to go out and visit friends. This hat will make you look like the baddest guy in town.",
+        "icon": "http://cms-content.s.aeriastatic.com/88748feb74d68d8ea983111df5c09952/files/aurakingdom/image/5/50357.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/8bd2c62e7a412605a3c1779b9b991716/files/aurakingdom/image/U/Untitle260.jpg",
+        "priceSingleItemAutomatic": 1499,
+        "totalprice": 1499,
+=======
+        "number": 5,
         "type": "Normal",
         "itemid": 45594,
         "itemname": "Fantasy Gift Voucher: 100 Points",
@@ -3414,10 +4062,78 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "number": 5,
+        "itemid": 50014,
+        "itemname": "Red Rose",
+        "quantity": 1,
+        "description": "A deep red rose, most commonly used to symbolize love. Be careful who you give it to!",
+        "icon": "http://cms-content.s.aeriastatic.com/82dd69f67145542624ff56b84f476268/files/aurakingdom/image/R/RedRose1.jpg",
+        "screenshot": "http://cms-content.s.aeriastatic.com/611e191438a738118d7f59db561f120d/files/aurakingdom/image/U/Uredroseled.png",
+        "priceSingleItemAutomatic": 499,
+        "totalprice": 499,
+=======
+        "number": 6,
+        "type": "Normal",
+        "itemid": 45073,
+        "itemname": "5000 Ruby Coins",
+        "quantity": 25,
+        "description": "Coins that can be used for refining. Use to receive 5000 points in Ruby Coins. Thank you for supporting Aura Kingdom!\n\nYou are limited to 99,999 Ruby Coins. This limit cannot be exceeded.",
+        "icon": "http://cms-content.s.aeriastatic.com/c2ee2d3dba988f613484b27bb907db6c/files/aurakingdom/image/F/FantasyGiftVoucher.jpg",
+        "screenshot": "not needed",
+        "priceSingleItemAutomatic": 1669,
+        "totalprice": 41725,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Both",
+        "dropdown": "Drop",
+        "openclosed": "Starts closed",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+>>>>>>> wrap-up-Tier-titles
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 13",
+<<<<<<< HEAD
+        "number": 6,
+        "type": "Normal",
+        "itemid": 45594,
+        "itemname": "Fantasy Gift Voucher: 100 Points",
+        "quantity": 25,
+        "description": "A special voucher used to purchase items. Use to receive 100 voucher points. Thanks for enjoying Aura Kingdom!\n\nThe maximum limit for coupons is 9,999; you cannot obtain more coupons after this set limit.",
+        "priceSingleItemAutomatic": 1500,
+        "totalprice": 37500,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "New",
+=======
+        "number": 7,
+        "type": "Normal",
+        "itemid": 51037,
+        "itemname": "Naughty Magic Broom",
+        "quantity": 1,
+        "description": "This magic broom comes with a sassy black witch-cat that flies around with you!\n\nUse: Right-click to mount the magic broom and increase your movement speed.",
+        "priceSingleItemAutomatic": 29999,
+        "totalprice": 29999,
+        "boxtype": "Long",
+        "boxcolor": "Blue",
+        "highlighttype": "Recommended",
+>>>>>>> wrap-up-Tier-titles
+        "dropdown": "No Drop",
+        "openclosed": "Starts open",
+        "screenshottype": "Half",
+        "descriptionornot": "Yes",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Bonus Tier 13",
+<<<<<<< HEAD
         "number": 7,
         "type": "Normal",
         "itemid": 45073,
@@ -3435,10 +4151,13 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
+<<<<<<< HEAD
         "number": 8,
         "type": "Normal",
         "itemid": 51037,
@@ -3454,6 +4173,8 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
+=======
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
@@ -3501,6 +4222,7 @@
         "ref": "#REF!"
     },
     {
+<<<<<<< HEAD
         "tier": "Bonus Tier 13",
         "ref": "#REF!"
     },
@@ -3511,6 +4233,16 @@
     {
         "boxtype": "US",
         "boxcolor": "DE",
+=======
+        "boxtype": "US",
+        "boxcolor": "DE",
+        "ref": "#REF!"
+    },
+    {
+        "ref": "#REF!"
+    },
+    {
+>>>>>>> wrap-up-Tier-titles
         "ref": "#REF!"
     },
     {
@@ -3626,11 +4358,14 @@
     },
     {
         "ref": "#REF!"
+<<<<<<< HEAD
     },
     {
         "ref": "#REF!"
     },
     {
         "ref": "#REF!"
+=======
+>>>>>>> wrap-up-Tier-titles
     }
 ]
