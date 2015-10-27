@@ -3386,7 +3386,6 @@
     },
     {
         "tier": "Bonus Tier 13",
-        "number": 5,
         "itemid": 50014,
         "itemname": "Red Rose",
         "quantity": 1,
@@ -3399,7 +3398,7 @@
     },
     {
         "tier": "Bonus Tier 13",
-        "number": 6,
+        "number": 5,
         "type": "Normal",
         "itemid": 45594,
         "itemname": "Fantasy Gift Voucher: 100 Points",
@@ -3418,7 +3417,7 @@
     },
     {
         "tier": "Bonus Tier 13",
-        "number": 7,
+        "number": 6,
         "type": "Normal",
         "itemid": 45073,
         "itemname": "5000 Ruby Coins",
@@ -3439,7 +3438,7 @@
     },
     {
         "tier": "Bonus Tier 13",
-        "number": 8,
+        "number": 7,
         "type": "Normal",
         "itemid": 51037,
         "itemname": "Naughty Magic Broom",
