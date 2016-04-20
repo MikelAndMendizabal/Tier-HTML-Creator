@@ -2105,7 +2105,7 @@
     {
         "tier": "Tier 8",
         "ref": "#REF!"
-<<<<<<< HEAD
+
     },
     {
         "tier": "Tier 8",
@@ -2114,16 +2114,8 @@
     {
         "tier": "Tier 8",
         "ref": "#REF!"
-=======
->>>>>>> wrap-up-Tier-titles
-    },
-    {
-        "tier": "Tier 8",
-        "ref": "#REF!"
-    },
-    {
-        "tier": "Tier 8",
-        "ref": "#REF!"
+
+
     },
     {
         "tier": "Tier 8",
@@ -2142,17 +2134,25 @@
         "ref": "#REF!"
     },
     {
-<<<<<<< HEAD
-        "ref": "#REF!"
-    },
-    {
-=======
         "tier": "Tier 8",
         "ref": "#REF!"
     },
     {
         "tier": "Tier 8",
->>>>>>> wrap-up-Tier-titles
+        "ref": "#REF!"
+    },
+    {
+
+        "ref": "#REF!"
+    },
+    {
+
+        "tier": "Tier 8",
+        "ref": "#REF!"
+    },
+    {
+        "tier": "Tier 8",
+
         "ref": "#REF!"
     },
     {
@@ -2234,15 +2234,15 @@
         "ref": "#REF!"
     },
     {
-<<<<<<< HEAD
-=======
+//
+//
         "ref": "#REF!"
     },
     {
         "ref": "#REF!"
     },
     {
->>>>>>> wrap-up-Tier-titles
+//
         "tier": "Tier",
         "text": "Text",
         "price": "Price",
@@ -2452,7 +2452,7 @@
     {
         "tier": "Bonus Tier 9",
         "ref": "#REF!"
-<<<<<<< HEAD
+//
     },
     {
         "tier": "Bonus Tier 9",
@@ -2548,7 +2548,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
     },
     {
         "tier": "Bonus Tier 9",
@@ -2604,12 +2604,12 @@
         "openclosed": "Open / Closed",
         "screenshottype": "Screenshot\nType",
         "descriptionornot": "Description\nor Not",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
+//
         "number": 3,
         "type": "Package",
         "itemid": 50786,
@@ -2623,7 +2623,7 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
-=======
+//
         "text": "You can choose one reward",
         "price": 39999,
         "number": 1,
@@ -2639,21 +2639,21 @@
         "highlighttype": "New",
         "dropdown": "No Drop",
         "openclosed": "Starts open",
->>>>>>> wrap-up-Tier-titles
+//
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
+//
         "itemid": 50783,
         "itemname": "Custom Rocker's Cap (M)",
         "quantity": 1,
         "description": "Your favorite song is playing! Time for some headbanging. Just make sure your cap doesn't fall off!",
         "priceSingleItemAutomatic": 14999,
         "totalprice": 14999,
-=======
+//
         "number": 2,
         "type": "Normal",
         "itemid": 50726,
@@ -2669,48 +2669,48 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
+//
         "number": 4,
         "type": "Normal",
         "itemid": 50640,
         "itemname": "Sophisticated Snowy Feathers",
         "quantity": 1,
         "description": "Glistening white wings that will bring you closer to levitation than you ever thought possible.",
-=======
+//
         "number": 3,
         "type": "Package",
         "itemid": 50786,
         "itemname": "Custom Punk Rocker Jacket (M)",
         "quantity": 1,
         "description": "Nothing says metal like wearing actual metal! Show that's you're really hardcore and get out on that stage and jam!",
->>>>>>> wrap-up-Tier-titles
+//
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
         "boxtype": "Long",
         "boxcolor": "Blue",
-<<<<<<< HEAD
+//
         "highlighttype": "None",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
         "screenshottype": "Whole",
         "descriptionornot": "No",
-=======
+//
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
+//
         "number": 5,
         "type": "Package",
         "itemid": 40199,
@@ -2728,19 +2728,19 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
         "itemid": 50783,
         "itemname": "Custom Rocker's Cap (M)",
         "quantity": 1,
         "description": "Your favorite song is playing! Time for some headbanging. Just make sure your cap doesn't fall off!",
         "priceSingleItemAutomatic": 14999,
         "totalprice": 14999,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
+//
         "itemid": 40197,
         "itemname": "Twentieth-Order Weapon Fortification",
         "quantity": 5,
@@ -2749,7 +2749,7 @@
         "screenshot": "not needed",
         "priceSingleItemAutomatic": 6999,
         "totalprice": 34995,
-=======
+//
         "number": 4,
         "type": "Normal",
         "itemid": 50640,
@@ -2765,12 +2765,12 @@
         "openclosed": "Starts closed",
         "screenshottype": "Whole",
         "descriptionornot": "No",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
+//
         "number": 6,
         "type": "Normal",
         "itemid": 45073,
@@ -2786,7 +2786,7 @@
         "highlighttype": "New",
         "dropdown": "No Drop",
         "openclosed": "Starts open",
-=======
+//
         "number": 5,
         "type": "Package",
         "itemid": 40199,
@@ -2802,15 +2802,15 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
->>>>>>> wrap-up-Tier-titles
+//
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
-=======
+//
+//
         "itemid": 40197,
         "itemname": "Twentieth-Order Weapon Fortification",
         "quantity": 5,
@@ -2819,13 +2819,13 @@
         "screenshot": "not needed",
         "priceSingleItemAutomatic": 6999,
         "totalprice": 34995,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 10",
-<<<<<<< HEAD
-=======
+//
+//
         "number": 6,
         "type": "Normal",
         "itemid": 45073,
@@ -2843,7 +2843,7 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
@@ -2915,7 +2915,7 @@
         "ref": "#REF!"
     },
     {
-<<<<<<< HEAD
+//
         "tier": "Tier",
         "text": "Text",
         "price": "Price",
@@ -2971,7 +2971,7 @@
         "icon": "http://cms-content.s.aeriastatic.com/fff3ef056f176669e4962481fb2a1fdf/files/aurakingdom/image/C/C50398.jpg",
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
-=======
+//
         "tier": "Bonus Tier 10",
         "ref": "#REF!"
     },
@@ -3001,19 +3001,19 @@
         "openclosed": "Open / Closed",
         "screenshottype": "Screenshot\nType",
         "descriptionornot": "Description\nor Not",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "itemid": 50641,
         "itemname": "Pink Snowy Feathers",
         "quantity": 1,
         "description": "Beautiful, lightweight pink feathers that will make you the star of the show when you flutter them.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
-=======
+//
         "text": "You can choose one reward",
         "price": 54999,
         "number": 1,
@@ -3033,12 +3033,12 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "number": 2,
         "type": "Normal",
         "itemid": 50823,
@@ -3054,7 +3054,7 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
         "itemid": 50398,
         "itemname": "Custom Asuna Headpiece (F)",
         "quantity": 1,
@@ -3062,12 +3062,12 @@
         "icon": "http://cms-content.s.aeriastatic.com/fff3ef056f176669e4962481fb2a1fdf/files/aurakingdom/image/C/C50398.jpg",
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "number": 3,
         "type": "Normal",
         "itemid": 50806,
@@ -3083,19 +3083,19 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
         "itemid": 50641,
         "itemname": "Pink Snowy Feathers",
         "quantity": 1,
         "description": "Beautiful, lightweight pink feathers that will make you the star of the show when you flutter them.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "number": 4,
         "type": "Normal",
         "itemid": 40391,
@@ -3110,7 +3110,7 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
-=======
+//
         "number": 2,
         "type": "Normal",
         "itemid": 50823,
@@ -3124,14 +3124,14 @@
         "highlighttype": "New",
         "dropdown": "No Drop",
         "openclosed": "Starts open",
->>>>>>> wrap-up-Tier-titles
+//
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "number": 5,
         "type": "Normal",
         "itemid": 40389,
@@ -3146,7 +3146,7 @@
         "highlighttype": "New",
         "dropdown": "No Drop",
         "openclosed": "Starts open",
-=======
+//
         "number": 3,
         "type": "Normal",
         "itemid": 50806,
@@ -3160,14 +3160,14 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
->>>>>>> wrap-up-Tier-titles
+//
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "number": 6,
         "type": "Normal",
         "itemid": 40361,
@@ -3176,7 +3176,7 @@
         "description": "This key contains the will of Astraea. This key's wings are resplendent with holy light.\n\nRight-click to obtain the Eidolon Astraea.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Astraea.",
         "icon": "http://cms-content.s.aeriastatic.com/a0ae04089891c6ea8ee3352541da6b5b/files/aurakingdom/image/A/AstraeasKeyofGaia.jpg",
         "screenshot": "http://cms-content.s.aeriastatic.com/d7d75823757f935b69021e4ef3a061c1/files/aurakingdom/image/a/aaa22232332.jpg",
-=======
+//
         "number": 4,
         "type": "Normal",
         "itemid": 40391,
@@ -3184,7 +3184,7 @@
         "quantity": 1,
         "description": "This key contains the will of Cesela. Its radiant light shines like the North Star.\n\nRight-click to obtain the Eidolon Cesela.\nYou cannot obtain the same Eidolon twice.\nThis key is also used in the evolution of Cesela.",
         "icon": "http://cms-content.s.aeriastatic.com/eb9d9f0c902455c1eb960681c6467a40/files/aurakingdom/image/C/CeselasKeyofGaia.jpg",
->>>>>>> wrap-up-Tier-titles
+//
         "priceSingleItemAutomatic": 39999,
         "totalprice": 39999,
         "boxtype": "Long",
@@ -3198,7 +3198,7 @@
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
+//
         "number": 7,
         "type": "Normal",
         "itemid": 45073,
@@ -3214,7 +3214,7 @@
         "highlighttype": "Both",
         "dropdown": "Drop",
         "openclosed": "Starts closed",
-=======
+//
         "number": 5,
         "type": "Normal",
         "itemid": 40389,
@@ -3229,15 +3229,15 @@
         "highlighttype": "New",
         "dropdown": "No Drop",
         "openclosed": "Starts open",
->>>>>>> wrap-up-Tier-titles
+//
         "screenshottype": "Half",
         "descriptionornot": "Yes",
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
-=======
+//
+//
         "number": 6,
         "type": "Normal",
         "itemid": 40361,
@@ -3255,13 +3255,13 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 11",
-<<<<<<< HEAD
-=======
+//
+//
         "number": 7,
         "type": "Normal",
         "itemid": 45073,
@@ -3279,7 +3279,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
@@ -3347,7 +3347,7 @@
         "ref": "#REF!"
     },
     {
-<<<<<<< HEAD
+//
         "tier": "Tier",
         "text": "Text",
         "price": "Price",
@@ -3409,7 +3409,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
         "tier": "Bonus Tier 11",
         "ref": "#REF!"
     },
@@ -3439,12 +3439,12 @@
         "openclosed": "Open / Closed",
         "screenshottype": "Screenshot\nType",
         "descriptionornot": "Description\nor Not",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 12",
-<<<<<<< HEAD
+//
         "number": 3,
         "type": "Normal",
         "itemid": 50811,
@@ -3456,7 +3456,7 @@
         "boxtype": "Long",
         "boxcolor": "Blue",
         "highlighttype": "Recommended",
-=======
+//
         "text": "You can choose one reward",
         "price": 74999,
         "number": 1,
@@ -3470,7 +3470,7 @@
         "boxtype": "Long",
         "boxcolor": "Blue",
         "highlighttype": "New",
->>>>>>> wrap-up-Tier-titles
+//
         "dropdown": "No Drop",
         "openclosed": "Starts open",
         "screenshottype": "Half",
@@ -3479,7 +3479,7 @@
     },
     {
         "tier": "Bonus Tier 12",
-<<<<<<< HEAD
+//
         "number": 4,
         "type": "Package",
         "itemid": 50800,
@@ -3488,7 +3488,7 @@
         "description": "Truly refined precious metal is lightweight like a feather. The armor is made using this metal and adorned with premium silk to create the ultimate armor set for a king.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
-=======
+//
         "number": 2,
         "type": "Normal",
         "itemid": 45594,
@@ -3497,7 +3497,7 @@
         "description": "A special voucher used to purchase items. Use to receive 100 voucher points. Thanks for enjoying Aura Kingdom!\n\nThe maximum limit for coupons is 9,999; you cannot obtain more coupons after this set limit.",
         "priceSingleItemAutomatic": 1500,
         "totalprice": 22500,
->>>>>>> wrap-up-Tier-titles
+//
         "boxtype": "Long",
         "boxcolor": "Blue",
         "highlighttype": "Both",
@@ -3509,14 +3509,14 @@
     },
     {
         "tier": "Bonus Tier 12",
-<<<<<<< HEAD
+//
         "itemid": 50789,
         "itemname": "Flaming Red Lotus Feather",
         "quantity": 1,
         "description": "Exquisite crystal accessory dyed in rose red. Its magical properties emits light particles which enhances the glamor of the wearer.",
         "priceSingleItemAutomatic": 14999,
         "totalprice": 14999,
-=======
+//
         "number": 3,
         "type": "Normal",
         "itemid": 50811,
@@ -3532,26 +3532,26 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 12",
-<<<<<<< HEAD
+//
         "number": 5,
         "type": "Package",
         "itemid": 50814,
         "itemname": "Pirate Lord Costume (M)",
         "quantity": 1,
         "description": "Fearless against the vast ocean and sailing to the uncharted territories in exploration. That is the first step to becoming the lord of the oceans.",
-=======
+//
         "number": 4,
         "type": "Package",
         "itemid": 50800,
         "itemname": "Custom Meteor Planetary Armor (M)",
         "quantity": 1,
         "description": "Truly refined precious metal is lightweight like a feather. The armor is made using this metal and adorned with premium silk to create the ultimate armor set for a king.",
->>>>>>> wrap-up-Tier-titles
+//
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
         "boxtype": "Long",
@@ -3565,11 +3565,11 @@
     },
     {
         "tier": "Bonus Tier 12",
-<<<<<<< HEAD
+//
         "itemid": 50817,
         "itemname": "Lord of the Ocean Captain Hat",
         "quantity": 1,
-=======
+//
         "itemid": 50789,
         "itemname": "Flaming Red Lotus Feather",
         "quantity": 1,
@@ -3602,7 +3602,7 @@
         "itemid": 50817,
         "itemname": "Lord of the Ocean Captain Hat",
         "quantity": 1,
->>>>>>> wrap-up-Tier-titles
+//
         "description": "The hat worn by the legendary conqueror of the ocean. If you want to become a lord of the ocean, wear your captain hat and lead your sailors to pursue your dreams.",
         "priceSingleItemAutomatic": 14999,
         "totalprice": 14999,
@@ -3715,7 +3715,7 @@
     {
         "tier": "Bonus Tier 12",
         "ref": "#REF!"
-<<<<<<< HEAD
+//
     },
     {
         "tier": "Bonus Tier 12",
@@ -3764,7 +3764,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
     },
     {
         "tier": "Bonus Tier 12",
@@ -3833,19 +3833,19 @@
         "description": "Surrounded by an aura of death, once this merciless predator sets his eyes on you, your fate is sealed.",
         "priceSingleItemAutomatic": 4999,
         "totalprice": 4999,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "itemid": 50770,
         "itemname": "Custom Bloodthirsty Assassin Garb (M)",
         "quantity": 1,
         "description": "Once this coldblooded killer has you in his sights, the only thing you'll see are the whites of his eyes as the life drains from your body.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
-=======
+//
         "number": 2,
         "type": "Package",
         "itemid": 11178,
@@ -3861,31 +3861,31 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "itemid": 50767,
         "itemname": "Shadow Assassin Mask",
         "quantity": 1,
         "description": "Surrounded by an aura of death, once this merciless predator sets his eyes on you, your fate is sealed.",
         "priceSingleItemAutomatic": 4999,
         "totalprice": 4999,
-=======
+//
         "itemid": 50738,
         "itemname": "Custom Flowery Kimono (F)",
         "quantity": 1,
         "description": "This trendy kimono's unique, laced design has made it the talk of the town.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 2,
         "type": "Package",
         "itemid": 11178,
@@ -3901,26 +3901,26 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
         "itemid": 50735,
         "itemname": "Custom Glamorous Butterfly Bow",
         "quantity": 1,
         "description": "When that special someone sees the ribbons and lace on this adorable bow, it'll be love at first sight!",
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "itemid": 50738,
         "itemname": "Custom Flowery Kimono (F)",
         "quantity": 1,
         "description": "This trendy kimono's unique, laced design has made it the talk of the town.",
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
-=======
+//
         "number": 3,
         "type": "Package",
         "itemid": 50700,
@@ -3936,43 +3936,43 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "itemid": 50735,
         "itemname": "Custom Glamorous Butterfly Bow",
         "quantity": 1,
         "description": "When that special someone sees the ribbons and lace on this adorable bow, it'll be love at first sight!",
-=======
+//
         "itemid": 50697,
         "itemname": "Custom Elegant Wedding Veil (F)",
         "quantity": 1,
         "description": "It's bad luck to see the bride! This exquisite veil will make the most important day in your life unforgettable!",
->>>>>>> wrap-up-Tier-titles
+//
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 3,
         "type": "Package",
         "itemid": 50700,
         "itemname": "Custom Glamorous Wedding Gown (F)",
         "quantity": 1,
         "description": "This premium wedding gown was especially designed to make the dreams of young girls come true!",
-=======
+//
         "number": 4,
         "type": "Package",
         "itemid": 50694,
         "itemname": "Custom Wedding Tux (M)",
         "quantity": 1,
         "description": "Finally ready to tie the knot? Then go the extra mile to show you really mean 'I do' with these premium dapper duds.",
->>>>>>> wrap-up-Tier-titles
+//
         "priceSingleItemAutomatic": 19999,
         "totalprice": 19999,
         "boxtype": "Long",
@@ -3986,14 +3986,14 @@
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "itemid": 50697,
         "itemname": "Custom Elegant Wedding Veil (F)",
         "quantity": 1,
         "description": "It's bad luck to see the bride! This exquisite veil will make the most important day in your life unforgettable!",
         "priceSingleItemAutomatic": 5999,
         "totalprice": 5999,
-=======
+//
         "itemid": 50357,
         "itemname": "Custom Western Hat (M)",
         "quantity": 1,
@@ -4002,12 +4002,12 @@
         "screenshot": "http://cms-content.s.aeriastatic.com/8bd2c62e7a412605a3c1779b9b991716/files/aurakingdom/image/U/Untitle260.jpg",
         "priceSingleItemAutomatic": 1499,
         "totalprice": 1499,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 4,
         "type": "Package",
         "itemid": 50694,
@@ -4023,7 +4023,7 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
+//
         "itemid": 50014,
         "itemname": "Red Rose",
         "quantity": 1,
@@ -4032,12 +4032,12 @@
         "screenshot": "http://cms-content.s.aeriastatic.com/611e191438a738118d7f59db561f120d/files/aurakingdom/image/U/Uredroseled.png",
         "priceSingleItemAutomatic": 499,
         "totalprice": 499,
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "itemid": 50357,
         "itemname": "Custom Western Hat (M)",
         "quantity": 1,
@@ -4046,7 +4046,7 @@
         "screenshot": "http://cms-content.s.aeriastatic.com/8bd2c62e7a412605a3c1779b9b991716/files/aurakingdom/image/U/Untitle260.jpg",
         "priceSingleItemAutomatic": 1499,
         "totalprice": 1499,
-=======
+//
         "number": 5,
         "type": "Normal",
         "itemid": 45594,
@@ -4062,12 +4062,12 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 5,
         "itemid": 50014,
         "itemname": "Red Rose",
@@ -4077,7 +4077,7 @@
         "screenshot": "http://cms-content.s.aeriastatic.com/611e191438a738118d7f59db561f120d/files/aurakingdom/image/U/Uredroseled.png",
         "priceSingleItemAutomatic": 499,
         "totalprice": 499,
-=======
+//
         "number": 6,
         "type": "Normal",
         "itemid": 45073,
@@ -4095,12 +4095,12 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 6,
         "type": "Normal",
         "itemid": 45594,
@@ -4112,7 +4112,7 @@
         "boxtype": "Long",
         "boxcolor": "Blue",
         "highlighttype": "New",
-=======
+//
         "number": 7,
         "type": "Normal",
         "itemid": 51037,
@@ -4124,7 +4124,7 @@
         "boxtype": "Long",
         "boxcolor": "Blue",
         "highlighttype": "Recommended",
->>>>>>> wrap-up-Tier-titles
+//
         "dropdown": "No Drop",
         "openclosed": "Starts open",
         "screenshottype": "Half",
@@ -4133,7 +4133,7 @@
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 7,
         "type": "Normal",
         "itemid": 45073,
@@ -4151,13 +4151,13 @@
         "openclosed": "Starts closed",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
->>>>>>> wrap-up-Tier-titles
+//
+//
         "ref": "#REF!"
     },
     {
         "tier": "Bonus Tier 13",
-<<<<<<< HEAD
+//
         "number": 8,
         "type": "Normal",
         "itemid": 51037,
@@ -4173,8 +4173,8 @@
         "openclosed": "Starts open",
         "screenshottype": "Half",
         "descriptionornot": "Yes",
-=======
->>>>>>> wrap-up-Tier-titles
+//
+//
         "ref": "#REF!"
     },
     {
@@ -4222,7 +4222,7 @@
         "ref": "#REF!"
     },
     {
-<<<<<<< HEAD
+//
         "tier": "Bonus Tier 13",
         "ref": "#REF!"
     },
@@ -4233,7 +4233,7 @@
     {
         "boxtype": "US",
         "boxcolor": "DE",
-=======
+//
         "boxtype": "US",
         "boxcolor": "DE",
         "ref": "#REF!"
@@ -4242,7 +4242,7 @@
         "ref": "#REF!"
     },
     {
->>>>>>> wrap-up-Tier-titles
+//
         "ref": "#REF!"
     },
     {
@@ -4358,14 +4358,14 @@
     },
     {
         "ref": "#REF!"
-<<<<<<< HEAD
+//
     },
     {
         "ref": "#REF!"
     },
     {
         "ref": "#REF!"
-=======
->>>>>>> wrap-up-Tier-titles
+//
+//
     }
 ]

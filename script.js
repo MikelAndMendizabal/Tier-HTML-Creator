@@ -76,21 +76,21 @@ var itemnum=1;
 var packagesize=0;
 var tiernum=1;
 var tiercount='Tier'+' '+tiernum;
-<<<<<<< HEAD
+
 var bonustiercount='Bonus Tier'+' '+tiernum;
 var iDiv;
-=======
+
 var nexttier='Tier'+' '+(tiernum+1);
 var bonustiercount='Bonus Tier'+' '+tiernum;
 var nextbonustiercount='Bonus Tier'+' '+(tiernum+1);
 var iDiv, dDiv;
->>>>>>> wrap-up-Tier-titles
+
 
 for(i=0;i<tiers.length;i++)
 {
   if((tiercount==tiers[i].tier)&&(tiers[i].number==1))
   {
-<<<<<<< HEAD
+
   	$("#container").append('<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>');
   	tiercount= 'Tier'+' '+tiernum;
   	bonustiercount= 'Bonus Tier'+' '+tiernum;
@@ -101,7 +101,7 @@ for(i=0;i<tiers.length;i++)
     iDiv.className = tiercount;
     document.getElementById('container').appendChild(iDiv);
     iDiv.innerHTML = tiercount;
-=======
+
   	iDiv = document.createElement('div');
     iDiv.id = tiercount.replace(/\s+/g, '');
     iDiv.className = 'TierCode';
@@ -121,12 +121,12 @@ for(i=0;i<tiers.length;i++)
   	nexttier='Tier'+' '+(tiernum+1);
   	
   	tiernum++;
->>>>>>> wrap-up-Tier-titles
+
   
   } 
   else if((nexttier==tiers[i].tier)&&(tiers[i].number==1))
   {
-<<<<<<< HEAD
+
     
     tiercount= 'Tier'+' '+tiernum;
     bonustiercount= 'Bonus Tier'+' '+tiernum;
@@ -139,7 +139,7 @@ for(i=0;i<tiers.length;i++)
     document.getElementById('container').appendChild(iDiv);
     iDiv.innerHTML = tiercount;
     
-=======
+
     iDiv.innerHTML =iDiv.innerHTML + '&lt;/div&gt;';
     
     tiercount= 'Tier'+' '+tiernum;
@@ -161,12 +161,12 @@ for(i=0;i<tiers.length;i++)
   	dDiv.innerHTML = '<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>';
     
     tiernum++;
->>>>>>> wrap-up-Tier-titles
+
   }
   
   else if((bonustiercount==tiers[i].tier)&&(tiers[i].number==1))
   {
-<<<<<<< HEAD
+
   	$("#container").append('<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>');
   	bonustiercount= 'Bonus Tier'+' '+tiernum;
 	
@@ -187,7 +187,7 @@ for(i=0;i<tiers.length;i++)
     iDiv.className = bonustiercount;
     document.getElementById('container').appendChild(iDiv);
     iDiv.innerHTML = bonustiercount;
-=======
+
   	iDiv.innerHTML =iDiv.innerHTML + '&lt;/div&gt;';
   	
   	iDiv = document.createElement('div');
@@ -228,7 +228,7 @@ for(i=0;i<tiers.length;i++)
   	dDiv.innerHTML = '<div id="tier"><h1 id="h1">'+tiers[i].tier+'</h1><div class="price"><p>'+tiers[i].price+'</p></div><h2 id="h2">'+tiers[i].text+'</h2></div>';
     
     tiernum++;
->>>>>>> wrap-up-Tier-titles
+
   }
   
   //when type is normal
@@ -243,12 +243,12 @@ for(i=0;i<tiers.length;i++)
         {
         	if((tiers[i].highlighttype=='None')&&(tiers[i].dropdown=='No Drop')&&(tiers[i].openclosed=='Starts open')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
          {
-<<<<<<< HEAD
+
          $("#container").append('<!-- Special Reward 1 --><div class="reward selected rew_special r_blue" id="reward_s1"><img alt="" class="rewards1_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><div class="reward_info show" id="reward_info_s1"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" class="ani_pulseon" id="rewards1_img" src="'+tiers[i].icon+'"/><p>'+tiers[i].description+'</div></div>');
-=======
+
          dDiv.innerHTML =dDiv.innerHTML + '<!-- Special Reward 1 --><div class="reward selected rew_special r_blue" id="reward_s1"><img alt="" class="rewards1_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><div class="reward_info show" id="reward_info_s1"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" class="ani_pulseon" id="rewards1_img" src="'+tiers[i].icon+'"/><p>'+tiers[i].description+'</div></div>';
          iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Special Reward 1 --&gt;&lt;div class=&quot;reward selected rew_special r_blue&quot; id=&quot;reward_s1&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;rewards1_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;reward_info show&quot; id=&quot;reward_info_s1&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;'+tiers[i].itemname+'&lt;/h4&gt;&lt;img alt=&quot;&quot; class=&quot;ani_pulseon&quot; id=&quot;rewards1_img&quot; src=&quot;'+tiers[i].icon+'&quot;/&gt;&lt;p&gt;'+tiers[i].description+'&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
          }
           else if((tiers[i].highlighttype=='Recommended')&&(tiers[i].dropdown=='No Drop')&&(tiers[i].openclosed=='Starts open')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
           {
@@ -267,53 +267,53 @@ for(i=0;i<tiers.length;i++)
           }
           else if((tiers[i].highlighttype=='None')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
           {
-<<<<<<< HEAD
+
           $("#container").append('<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>');
-=======
+
           dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>';
           iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 1 --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;'+tiers[i].itemname+'&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
           dropdownid++;
           }
           else if((tiers[i].highlighttype=='Recommended')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
           {
-<<<<<<< HEAD
+
           $("#container").append('<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3><div class="reward_recommended"></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>');
-=======
+
           dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3><div class="reward_recommended"></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>';
           iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 1 --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;div class=&quot;reward_recommended&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;'+tiers[i].itemname+'&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
            dropdownid++;
           }
           else if((tiers[i].highlighttype=='New')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
           {
-<<<<<<< HEAD
+
           $("#container").append('<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3><div class="reward_new"></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>');
-=======
+
           dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3><div class="reward_new"></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>';
           iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 1 --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;div class=&quot;reward_new&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;'+tiers[i].itemname+'&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
            dropdownid++;
           }
           else if((tiers[i].highlighttype=='Both')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
           {
-<<<<<<< HEAD
+
           $("#container").append('<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3><div class="reward_recommended"></div><div class="reward_new ani_pulse2on"></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>');
-=======
+
           dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 1 --><div class="reward unselected rew_hover r_blue" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'">&nbsp;</div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3><div class="reward_recommended"></div><div class="reward_new ani_pulse2on"></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">'+tiers[i].itemname+'</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p>'+tiers[i].description+'</p></div></div>';
           iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 1 --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;div class=&quot;reward_recommended&quot;&gt;&lt;/div&gt;&lt;div class=&quot;reward_new ani_pulse2on&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;'+tiers[i].itemname+'&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
            dropdownid++;
           }
           //when screeenshottype is Whole
           else if((tiers[i].highlighttype=='None')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Whole')&&(tiers[i].descriptionornot=='No'))     
           {
-<<<<<<< HEAD
+
              $("#container").append('<!-- Reward 12 -- Example big picture description --><div id="reward'+dropdownid+'" class="reward unselected rew_hover r_blue" onmouseover="toggleAni(\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')"><div id="arrow'+dropdownid+'" class="arrow arrow_on"></div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'"><h3>'+tiers[i].itemname+'</h3></div><div id="reward_info'+dropdownid+'" class="reward_info hidden"><img class="reward_img_big" alt="" src="'+tiers[i].screenshot+'"></div>');
-=======
+
              dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 12 -- Example big picture description --><div id="reward'+dropdownid+'" class="reward unselected rew_hover r_blue" onmouseover="toggleAni(\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')"><div id="arrow'+dropdownid+'" class="arrow arrow_on"></div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'"><h3>'+tiers[i].itemname+'</h3></div><div id="reward_info'+dropdownid+'" class="reward_info hidden"><img class="reward_img_big" alt="" src="'+tiers[i].screenshot+'"></div>';
          iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 12 -- Example big picture description --&gt;&lt;div id=&quot;reward'+dropdownid+'&quot; class=&quot;reward unselected rew_hover r_blue&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot;&gt;&lt;div id=&quot;arrow'+dropdownid+'&quot; class=&quot;arrow arrow_on&quot;&gt;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot;&gt;&lt;h3&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;div id=&quot;reward_info'+dropdownid+'&quot; class=&quot;reward_info hidden&quot;&gt;&lt;img class=&quot;reward_img_big&quot; alt=&quot;&quot; src=&quot;'+tiers[i].screenshot+'&quot;&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
           dropdownid++;
             }
     
@@ -346,12 +346,12 @@ for(i=0;i<tiers.length;i++)
     
     if((tiers[i].boxcolor=='Grey')&&(tiers[i].highlighttype=='None')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='No'))     
       {
-<<<<<<< HEAD
+
       $("#container").append('<!-- Reward 8 & 9 -- Example Small Rewards --><div class="reward rew_Half unselected rew_hover r_grey" id="reward8" onclick="toggleReward(\'reward_info8\',\'reward8\',\'reward8_img\',\'arrow8\'); toggleSmallReward(\'reward_info_Half8_9\',\'reward_info8\',\'reward_info9\')" onmouseout="toggleAni(\'arrow8\')" onmouseover="toggleAni(\'arrow8\')"><div class="r_arrow arrow_on" id="arrow8"></div><img alt="" class="reward8_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><div class="reward rew_Half2 unselected rew_hover r_grey" id="reward9" onclick="toggleReward(\'reward_info9\',\'reward9\',\'reward9_img\',\'arrow9\'); toggleSmallReward(\'reward_info_Half8_9\',\'reward_info9\',\'reward_info8\')" onmouseout="toggleAni(\'arrow9\')" onmouseover="toggleAni(\'arrow9\')"><div class="r_arrow arrow_on" id="arrow9"></div><img alt="" class="reward9_img" src="'+tiers[i+1].icon+'" /><h3 id="h3">'+tiers[i+1].itemname+'</h3></div><div class="reward_info_Halfs hidden" id="reward_info_Half8_9"><div class="reward_info reward_info_Half hidden" id="reward_info8"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /></div><div class="reward_info reward_info_Half2 hidden" id="reward_info9"><div class="reward_info_details reward_Half"><h4 id="h4">'+tiers[i+1].itemname+'</h4><img alt="" id="reward9_img" src="'+tiers[i+1].icon+'" /><p>'+tiers[i+1].description+'</p></div></div></div>');
-=======
+
       dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 8 & 9 -- Example Small Rewards --><div class="reward rew_Half unselected rew_hover r_grey" id="reward8" onclick="toggleReward(\'reward_info8\',\'reward8\',\'reward8_img\',\'arrow8\'); toggleSmallReward(\'reward_info_Half8_9\',\'reward_info8\',\'reward_info9\')" onmouseout="toggleAni(\'arrow8\')" onmouseover="toggleAni(\'arrow8\')"><div class="r_arrow arrow_on" id="arrow8"></div><img alt="" class="reward8_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><div class="reward rew_Half2 unselected rew_hover r_grey" id="reward9" onclick="toggleReward(\'reward_info9\',\'reward9\',\'reward9_img\',\'arrow9\'); toggleSmallReward(\'reward_info_Half8_9\',\'reward_info9\',\'reward_info8\')" onmouseout="toggleAni(\'arrow9\')" onmouseover="toggleAni(\'arrow9\')"><div class="r_arrow arrow_on" id="arrow9"></div><img alt="" class="reward9_img" src="'+tiers[i+1].icon+'" /><h3 id="h3">'+tiers[i+1].itemname+'</h3></div><div class="reward_info_Halfs hidden" id="reward_info_Half8_9"><div class="reward_info reward_info_Half hidden" id="reward_info8"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /></div><div class="reward_info reward_info_Half2 hidden" id="reward_info9"><div class="reward_info_details reward_Half"><h4 id="h4">'+tiers[i+1].itemname+'</h4><img alt="" id="reward9_img" src="'+tiers[i+1].icon+'" /><p>'+tiers[i+1].description+'</p></div></div></div>';
       iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 8 &amp; 9 -- Example Small Rewards --&gt;&lt;div class=&quot;reward rew_Half unselected rew_hover r_grey&quot; id=&quot;reward8&quot; onclick=&quot;toggleReward(\'reward_info8\',\'reward8\',\'reward8_img\',\'arrow8\'); toggleSmallReward(\'reward_info_Half8_9\',\'reward_info8\',\'reward_info9\')&quot; onmouseout=&quot;toggleAni(\'arrow8\')&quot; onmouseover=&quot;toggleAni(\'arrow8\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow8&quot;&gt;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward8_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;reward rew_Half2 unselected rew_hover r_grey&quot; id=&quot;reward9&quot; onclick=&quot;toggleReward(\'reward_info9\',\'reward9\',\'reward9_img\',\'arrow9\'); toggleSmallReward(\'reward_info_Half8_9\',\'reward_info9\',\'reward_info8\')&quot; onmouseout=&quot;toggleAni(\'arrow9\')&quot; onmouseover=&quot;toggleAni(\'arrow9\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow9&quot;&gt;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward9_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i+1].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;reward_info_Halfs hidden&quot; id=&quot;reward_info_Half8_9&quot;&gt;&lt;div class=&quot;reward_info reward_info_Half hidden&quot; id=&quot;reward_info8&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;reward_info reward_info_Half2 hidden&quot; id=&quot;reward_info9&quot;&gt;&lt;div class=&quot;reward_info_details reward_Half&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;'+tiers[i+1].itemname+'&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward9_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i+1].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
       }
     i++;
   }
@@ -371,10 +371,10 @@ for(i=0;i<tiers.length;i++)
   {
    //Check how many items are in the package
    var count=0;
-<<<<<<< HEAD
-=======
+
+
    var first_time=0;
->>>>>>> wrap-up-Tier-titles
+
    itemnum=tiers[i].number;
    for(j=i;j<(i+12);j++)
     {
@@ -388,20 +388,20 @@ for(i=0;i<tiers.length;i++)
        count++; 
       }
     }
-<<<<<<< HEAD
-=======
+
+
    
->>>>>>> wrap-up-Tier-titles
+
     if(packagesize==2)
     {
       if((tiers[i].boxcolor=='Blue')&&(tiers[i].highlighttype=='Both')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
       {
-<<<<<<< HEAD
+
         $("#container").append('<!-- Reward 2 -- Example 2 Items --><div class="reward unselected rew_hover r_blue two_rewards" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'"></div><div class="two_rewards_r1"><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><p class="reward_plus" id="reward_plus">+</p><div class="two_rewards_r2"><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'"/><h3 id="h3" style="left: 50px;">'+tiers[i+1].itemname+'</h3></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">Set Promotion</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /><p>'+tiers[i].description+'<br/>'+tiers[i+1].description+'</p></div></div>');
-=======
+
         dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 2 -- Example 2 Items --><div class="reward unselected rew_hover r_blue two_rewards" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'"></div><div class="two_rewards_r1"><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><h3 id="h3">'+tiers[i].itemname+'</h3></div><p class="reward_plus" id="reward_plus">+</p><div class="two_rewards_r2"><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'"/><h3 id="h3" style="left: 50px;">'+tiers[i+1].itemname+'</h3></div></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">Set Promotion</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /><p>'+tiers[i].description+'<br/>'+tiers[i+1].description+'</p></div></div>';
         iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 2 -- Example 2 Items --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue two_rewards&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&lt;/div&gt;&lt;div class=&quot;two_rewards_r1&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;'+tiers[i].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;p class=&quot;reward_plus&quot; id=&quot;reward_plus&quot;&gt;+&lt;/p&gt;&lt;div class=&quot;two_rewards_r2&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+1].icon+'&quot;/&gt;&lt;h3 id=&quot;h3&quot; style=&quot;left: 50px;&quot;&gt;'+tiers[i+1].itemname+'&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;Set Promotion&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;br/&gt;'+tiers[i+1].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
       dropdownid++;
       }
     }
@@ -409,12 +409,12 @@ for(i=0;i<tiers.length;i++)
     {
       if((tiers[i].boxcolor=='Blue')&&(tiers[i].highlighttype=='Both')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
       {
-<<<<<<< HEAD
+
          $("#container").append('<!-- Reward 3 -- Example 3 Items --><div class="reward unselected rew_hover r_blue more_rewards more_rewards3" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'"></div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p class="reward_plus" id="reward_plus">+</p><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /><p class="reward_plus" id="reward_plus2">+</p><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /><h3 id="h3">Set Promotion</h3></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">Set Promotion</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /><p>'+tiers[i].description+'<br />'+tiers[i+1].description+'<br />'+tiers[i+2].description+'</p></div></div>');
-=======
+
          dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 3 -- Example 3 Items --><div class="reward unselected rew_hover r_blue more_rewards more_rewards3" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'"></div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /><p class="reward_plus" id="reward_plus">+</p><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /><p class="reward_plus" id="reward_plus2">+</p><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /><h3 id="h3">Set Promotion</h3></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">Set Promotion</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /><p>'+tiers[i].description+'<br />'+tiers[i+1].description+'<br />'+tiers[i+2].description+'</p></div></div>';
          iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 3 -- Example 3 Items --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue more_rewards more_rewards3&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt;&lt;p class=&quot;reward_plus&quot; id=&quot;reward_plus&quot;&gt;+&lt;/p&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt;&lt;p class=&quot;reward_plus&quot; id=&quot;reward_plus2&quot;&gt;+&lt;/p&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+2].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;Set Promotion&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;Set Promotion&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+2].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;br /&gt;'+tiers[i+1].description+'&lt;br /&gt;'+tiers[i+2].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;';
->>>>>>> wrap-up-Tier-titles
+
       dropdownid++;
       }
       
@@ -423,12 +423,12 @@ for(i=0;i<tiers.length;i++)
     {
       if((tiers[i].boxcolor=='Blue')&&(tiers[i].highlighttype=='Both')&&(tiers[i].dropdown=='Drop')&&(tiers[i].openclosed=='Starts closed')&&(tiers[i].screenshottype=='Half')&&(tiers[i].descriptionornot=='Yes'))     
       {
-<<<<<<< HEAD
+
        $("#container").append('<!-- Reward 4 -- Example 4 Items --><div class="reward unselected rew_hover r_blue more_rewards more_rewards4" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'"></div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /> <img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /> <img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+3].icon+'" /><h3 id="h3">Set Promotion</h3></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">Set Promotion</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+3].icon+'" /><p>'+tiers[i].description+'<br />'+tiers[i+1].description+'<br />'+tiers[i+2].description+'<br />'+tiers[i+3].description+'</p></div></div>');
-=======
+
        dDiv.innerHTML =dDiv.innerHTML + '<!-- Reward 4 -- Example 4 Items --><div class="reward unselected rew_hover r_blue more_rewards more_rewards4" id="reward'+dropdownid+'" onclick="toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')" onmouseout="toggleAni(\'arrow'+dropdownid+'\')" onmouseover="toggleAni(\'arrow'+dropdownid+'\')"><div class="r_arrow arrow_on" id="arrow'+dropdownid+'"></div><img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /> <img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /> <img alt="" class="reward'+dropdownid+'_img" src="'+tiers[i+3].icon+'" /><h3 id="h3">Set Promotion</h3></div><div class="reward_info hidden" id="reward_info'+dropdownid+'"><img alt="" class="reward_img" src="'+tiers[i].screenshot+'" /><div class="reward_info_details"><h4 id="h4">Set Promotion</h4><img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+1].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+2].icon+'" /> <img alt="" id="reward'+dropdownid+'_img" src="'+tiers[i+3].icon+'" /><p>'+tiers[i].description+'<br />'+tiers[i+1].description+'<br />'+tiers[i+2].description+'<br />'+tiers[i+3].description+'</p></div></div>';
        iDiv.innerHTML =iDiv.innerHTML + '&lt;!-- Reward 4 -- Example 4 Items --&gt;&lt;div class=&quot;reward unselected rew_hover r_blue more_rewards more_rewards4&quot; id=&quot;reward'+dropdownid+'&quot; onclick=&quot;toggleReward(\'reward_info'+dropdownid+'\',\'reward'+dropdownid+'\',\'reward'+dropdownid+'_img\',\'arrow'+dropdownid+'\')&quot; onmouseout=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot; onmouseover=&quot;toggleAni(\'arrow'+dropdownid+'\')&quot;&gt;&lt;div class=&quot;r_arrow arrow_on&quot; id=&quot;arrow'+dropdownid+'&quot;&gt;&lt;/div&gt;&lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+2].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; class=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+3].icon+'&quot; /&gt;&lt;h3 id=&quot;h3&quot;&gt;Set Promotion&lt;/h3&gt;&lt;/div&gt;&lt;div class=&quot;reward_info hidden&quot; id=&quot;reward_info'+dropdownid+'&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;reward_img&quot; src=&quot;'+tiers[i].screenshot+'&quot; /&gt;&lt;div class=&quot;reward_info_details&quot;&gt;&lt;h4 id=&quot;h4&quot;&gt;Set Promotion&lt;/h4&gt;&lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+1].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+2].icon+'&quot; /&gt; &lt;img alt=&quot;&quot; id=&quot;reward'+dropdownid+'_img&quot; src=&quot;'+tiers[i+3].icon+'&quot; /&gt;&lt;p&gt;'+tiers[i].description+'&lt;br /&gt;'+tiers[i+1].description+'&lt;br /&gt;'+tiers[i+2].description+'&lt;br /&gt;'+tiers[i+3].description+'&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;',
->>>>>>> wrap-up-Tier-titles
+
       dropdownid++;
         
       }
