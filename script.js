@@ -70,6 +70,7 @@ function toggleAni(arrow)
 function load(){
   $.getJSON("tiers.json", function(tiers) {
     console.log(tiers); // console test
+
 var dropdownid=100;
 var i;
 var itemnum=1;
@@ -388,9 +389,7 @@ for(i=0;i<tiers.length;i++)
        count++; 
       }
     }
-
-
-   
+  
 
     if(packagesize==2)
     {
